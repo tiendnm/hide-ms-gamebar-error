@@ -1,0 +1,1 @@
+# hide-ms-gamebar-error
